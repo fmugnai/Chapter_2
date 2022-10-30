@@ -1,5 +1,5 @@
 # Chapter_2
-## Building a local, customized COI barcoding da-tabase for taxonomic assignment of metabarcoding data
+## Building a local, customized COI barcoding database for taxonomic assignment of metabarcoding data
 ### In this file collection you can find supplementary material relative at Chapter 2 of Francesco Mugnai’s PhD thesis.
 #### Please note that all the CSV files have TAB as column separator.
 1. The sampling location coordinates and metadata are available in **Data_S1.csv**.
