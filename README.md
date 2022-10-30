@@ -7,7 +7,7 @@
 3. The list of the ASVs (Amplicon Sequence Variants) used in this study and obtained from Wangensteen et al., 2018, are available in **Data_S3.csv**.
 4. In **Data_S4.csv**, a list of Mediterranean marine families, obtained from OBIS (www.obis.org) restricting the search field to Mediterranean Sea LME (Large Marine Ecosystem), are listed.
 5. A complete step-by-step guide about Perl commands used to create, customize, and format the desired reference databases are available in **Data_S5.html**.
-6. The number of taxonomic assignments for each resolution level **from unassigned to species** using four different taxonomic assignment methods **VTAM, QIIME_SKLEARN, QIIME_BLAST and RDP** and four different reference databases are available in **Data_S6.csv**. The QIIME_BLAST algorithm was carried out using three different minimum identity thresholds (80%; 90% and 97%).
+6. The number of taxonomic assignments for each resolution level **from unassigned to species** using four different taxonomic assignment methods (VTAM, QIIME_SKLEARN, QIIME_BLAST and RDP) and four different reference databases are available in **Data_S6.csv**. The QIIME_BLAST algorithm was carried out using three different minimum identity thresholds (80%; 90% and 97%).
 7. The taxonomic assignment of all ASVs using the QIIME_BLAST algorithm with 97% identity cutoff and 4 different databases can be found in **Data_S7.csv**.
 8. The taxonomic assignment of all ASVs using the QIIME_BLAST algorithm with 90% identity cutoff and 4 different databases is presented in **Data_S8.csv**.
 9. **Data_S9.csv** includes the taxonomic assignment of all ASVs using the QIIME_BLAST algorithm with 80% identity cutoff and 4 different databases.
