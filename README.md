@@ -2,7 +2,7 @@
 ## Building a local, customized COI barcoding database for taxonomic assignment of metabarcoding data
 ### In this file collection you can find supplementary material relative at Chapter 2 of Francesco Mugnai’s PhD thesis.
 #### Please note that all the CSV files have TAB as column separator.
-1. The sampling location coordinates and metadata are available in **Data_S1.csv**.
+1. The sampling location metadata and map are available in **Data_S1.csv**.
 2. All the new barcoded sequences used to build the COInr-Med+ database and submitted to GenBank (Accession numbers ON716004-ON716119), together with their taxonomic and geographic origins, are presented in **Data_S2.csv**.
 3. The list of the ASVs (Amplicon Sequence Variants) used in this study and obtained from Wangensteen et al., 2018, are available in **Data_S3.csv**.
 4. In **Data_S4.csv**, a list of Mediterranean marine families, obtained from OBIS (www.obis.org) restricting the search field to Mediterranean Sea LME (Large Marine Ecosystem), are listed.
